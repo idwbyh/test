@@ -1,1 +1,1 @@
-print("нэбачос")
+print("test2")
